@@ -1,0 +1,5 @@
+{"id": 1, "name": "Gift for GF", "img_path": "toy.jpg", "count": 99}
+{"id": 2, "name": "The best car", "img_path": "car.jpg", "count": 0}
+{"id": 3, "name": "Favourite toy", "img_path": "doll.jpg", "count": 68}
+
+

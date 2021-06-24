@@ -1,0 +1,5 @@
+{"username": "Spas", "password": "Fokasduha8", "first_name": "Spas", "last_name": "Mihaylov", "products": []}
+{"username": "hui", "password": "123", "first_name": "hui", "last_name": "chevrust", "products": []}
+{"username": "dfsdfs", "password": "1231", "first_name": "dafa", "last_name": "12312", "products": []}
+", "last_name": "jasd", "products": [}
+{"username": "Spas", "password": "123", "firstname": "spas", "lastname": "mihaylov", "products": []}
